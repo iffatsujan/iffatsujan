@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+I'm Iffat, a new user to Github and I am **super excited** to test out this platform! ⭐
+
+I’m currently a degree apprentice working at Microsoft and trying to learn as much as possible. 🌱
 
 <!--
 **iffatsujan/iffatsujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
